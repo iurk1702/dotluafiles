@@ -1,6 +1,6 @@
 # dotluafile #mario
 Game codes in lua
-Codes for the course CS50- introduction to computer science
+Codes for the course CS50- introduction to computer science//
 Codes from the time i was just starting out in CS
 
 Citation:
